@@ -1,0 +1,11 @@
+Employee ID,Name,Email,Department Id,Department Name,Contact Details
+S0000,Alice,alice@gmail.com,IT201,Information Technology,98650001
+S000002,Bob,bob@gmail.com,HR204,Human Resource,98650002
+S000003,Charlie,charlie@gmail.com,IT201,Information Technology,98650003
+S000004,David,david@gmail.com,FC302,Finance,98650004
+S000005,Eva,eva@gmail.com,HR204,Human Resource,98650005
+S000006,Frank,frank@gmail.com,MT403,Marketing,98650006
+S000007,Grace,grace@gmail.com,FC302,Finance,98650007
+S000008,Hank,hank@gmail.com,SL101,Sales,98650008
+S000009,Ivy,ivy@gmail.com,SL101,Sales,98650009
+S000010,Jack,jack@gmail.com, MT403,Marketing,98650010

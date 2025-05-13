@@ -1,0 +1,13 @@
+Employee ID,Name,Email,Department Id,Department Name,Contact Details
+S000001,John Doe,johndoe@gmail.com,HR201,Human Resource,98650001
+S000002,Jane Smith,janesmith@gmail.com,FC401,Finance,98650002
+S000003,Andrews,andrews@gmail.com,CS301,Customer Service,98650020
+S000004,Emily Davis,emilydavis@gmail.com,IT301,Information Technology,98650004
+S000007,David Lee,davidlee@gmail.com,FC401,Finance,98650007
+S000009,Chris Evans,chrisevans@gmail.com,MT101,Marketing,98650009
+S000010,Jessica Taylor,jessicataylor@gmail.com,IT301,Information Technology,98650010
+S000011,Daniel Kim,danielkim@gmail.com,FC401,Finance,98650011
+S000012,Alice Brown,alicebrown@gmail.com,HR201,Human Resource,98650012
+S000016,SAM,sam@gmail.com,HR201,Human Resource,98650016
+S000013,Tarun,tarun@gmail.com,SL303,Sales,98650013
+S000020,Ryan,ryan@gmail.com,HR303,Human Resource,98650020
